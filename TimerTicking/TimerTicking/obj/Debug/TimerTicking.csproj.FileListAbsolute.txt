@@ -1,0 +1,15 @@
+D:\window project\TimerTicking\TimerTicking\bin\Debug\TimerTicking.exe.config
+D:\window project\TimerTicking\TimerTicking\bin\Debug\TimerTicking.exe
+D:\window project\TimerTicking\TimerTicking\bin\Debug\TimerTicking.pdb
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.csprojResolveAssemblyReference.cache
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.Form1.resources
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.Properties.Resources.resources
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.csproj.GenerateResource.Cache
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.exe
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.pdb
+D:\window project\TimerTicking\TimerTicking\obj\Debug\Interop.WMPLib.dll
+D:\window project\TimerTicking\TimerTicking\obj\Debug\AxInterop.WMPLib.dll
+D:\window project\TimerTicking\TimerTicking\obj\Debug\TimerTicking.csproj.ResolveComReference.cache
+D:\window project\TimerTicking\TimerTicking\bin\Debug\Interop.WMPLib.dll
+D:\window project\TimerTicking\TimerTicking\bin\Debug\AxInterop.WMPLib.dll
+D:\window project\TimerTicking\TimerTicking\bin\Debug\Bunifu_UI_v1.52.dll
